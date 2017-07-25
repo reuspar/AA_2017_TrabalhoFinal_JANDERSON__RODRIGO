@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rodri/CLionProjects/MVCBinarySearch/main.cpp
+bits/stdc++.h
+-
+iostream
+-
+string
+-
+list
+-
+fstream
+-
+chrono
+-
+
